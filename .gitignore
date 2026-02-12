@@ -1,0 +1,4 @@
+/bin/
+.shadow/
+test.txt
+coverage.out
