@@ -1,20 +1,18 @@
 <a id="readme-top"></a>
+## sh_adow
 
 <!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/chhlga/sh_adow">
-    <img src="assets/blobashik_shadow.png" alt="Bashik Shadow Mascot" width="254" height="254">
-  </a>
+<a href="https://github.com/chhlga/sh_adow">
+  <img src="assets/blobashik_shadow.png" alt="Bashik Shadow Mascot" width="254" height="254">
+</a>
 
-<h3 align="center">sh_adow</h3>
 
-  <p align="center">
+<div>
+  <p>
     Simple file versioning without git complexity
     <br />
-    <a href="#getting-started"><strong>Get Started »</strong></a>
-    <br />
-    <br />
+    <a href="#getting-started"><strong>Get Started</strong></a>
+    ·
     <a href="#usage">View Examples</a>
     ·
     <a href="https://github.com/chhlga/sh_adow/issues">Report Bug</a>
