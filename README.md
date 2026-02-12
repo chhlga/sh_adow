@@ -1,5 +1,6 @@
 <a id="readme-top"></a>
-## sh_adow
+
+# sh_adow
 
 <!-- PROJECT LOGO -->
 <a href="https://github.com/chhlga/sh_adow">
@@ -25,6 +26,7 @@
   [![Go Version][go-shield]][go-url]
   [![License][license-shield]][license-url]
   ![Cobra][cobra-badge]
+  ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/chhlga/sh_adow/go.yml?style=for-the-badge)
 
 ---
 
